@@ -1,6 +1,6 @@
 Privacy Policy
 
-Concrete Tag built the CTAG Demo app as a Free app. This Service is provided by Concrete Tag at no cost and is intended for use as is.
+Concrete Tag built the CTAG Demo app as a Free app. This Service is provided by Concrete Tag at no cost and is intended for use as is.<br>
 
 This page is used to inform visitors regarding our policies regarding the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
